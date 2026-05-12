@@ -1,5 +1,5 @@
 ---
-name: rental-hunter
+name: rental-hunter (留住)
 description: Helps users find their ideal apartments by providing the detailed information of price, floor plan image, transition to work/school in an output file. 
 ---
 
